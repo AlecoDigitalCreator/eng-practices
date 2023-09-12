@@ -2,7 +2,7 @@
 
 Google has many generalized engineering practices that cover all languages and
 all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
+best practices that we have developed over time. It is possible that open-source
 projects or other organizations would benefit from this knowledge, so we work to
 make it available publicly when possible.
 
